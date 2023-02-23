@@ -2,7 +2,7 @@
 
 ## Initial Summary of Some Key Information
 
-I'd like Jack, Kyle, Vineet and Millenia (along with Jordan) to resubmit their work after we chat about it today.
+I'd like Jack, Kyle, Vineet and Millenia (along with Jordan) to resubmit their work after we chat about it today. I'd like to see that by Saturday at 9 AM at the latest, please.
 
 Investigator | Title | Data Source | Outcome | Treatment | Subjects | Collaborators
 :----------: | :------------------------------------------------: | :--------------: | :-------: | :------: | -------: | :-----------: |
