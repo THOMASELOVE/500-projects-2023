@@ -2,21 +2,43 @@
 
 ## Initial Summary of Some Key Information
 
-I'd like Jack, Kyle, Vineet and Millenia (along with Jordan) to resubmit their work after we chat about it today. I'd like to see that by Saturday at 9 AM at the latest, please.
-
-Investigator | Title | Data Source | Outcome | Treatment | Subjects | Collaborators
-:----------: | :------------------------------------------------: | :--------------: | :-------: | :------: | -------: | :-----------: |
+Investigator | Title | Data Source | Outcome | Treatment | Subjects | Collaborators | 
+:----------: | :------------------------------------------------: | :--------------: | :-------: | :------: | -------: | :-----------: | 
 Bryan Abadie | Long-term mortality after mitral valve replacement versus repair in the modern age | CCF patients 2010 - ? | All-cause mortality | Mitral valve repair vs. replacement | 1759 + 509 = 2268 adults | Paul Cremer and Leslie Cho, CCF
 Ife Babatunde | Food Assistance Programs and the Incidence of Weight Faltering among Infants and Children Under the Age of 5 | NHANES 2017-18 | Underweight status (Yes/No) | WIC program (Yes/No) | 873  + 502 = 1375 kids | None listed. 
 Alise Carlson | Long-term safety risks among multiple sclerosis patients treated with ocrelizumab | CCF patients ? - 2022 | Serious infection (primary reason for ICU or non-ICU hospital admission) | Ocrelizumab vs. first-line injectable therapies | 600 + 1800 = 2400 adult MS patients | Scott Husak, Brandon Moss, Robert Bermel, Daniel Ontaneda, CCF
 Catherine Heinzinger | Predicting Atrial Fibrillation Diagnosis by Exposure to Pathologic Daytime Sleepiness in Cleveland Clinic Sleep Study Registry Patients | CCF patients 2000-2015 | Diagnosis of A-fib | Epworth Sleepiness Score 11-24 vs. 0-10 | 1004 + 1496 = 2500 adults | Nicolas Thompson, Matheus Araujo, Alex Milinovich, Reena Mehra, CCF
 Benjamin Kramer | Does aortic root replacement during acute ascending aortic dissection improve overall survival? | CCF patients 1978-2017 | Time to death (censored) | Aortic root replacement vs. No | 263 + 914 = 1177 adults | Andrew Toth, Moses Amabile, Eugene Blackstone, Eric Roselli, CCF
-**Zunren (Jack) Liu** | The relationship between urban modernization and quality of residents’ life | County Health Rankings 2022 | Unclear | Something based on county's % with access to exercise opportunities | Unclear | None listed.
-**Kyle McGill Percy** | Can’t remember to sleep? The connection between lack of sleep and cognitive impairment | NHANES 2013-14 | Unclear | Ever told by a doctor or other health professional that you have a sleep disorder? | 187 + 1590 = 1777 adults | None listed.
+Zunren (Jack) Liu | The relationship between urban modernization and quality of residents’ life | County Health Rankings 2022 | % unemployed within the County | Categorized % with access to exercise opportunities | 600 + 900 counties | None listed.
+Kyle McGill Percy | Can’t remember to sleep? The connection between lack of sleep and cognitive impairment | NHANES 2013-14 | Score > 5 on Delayed Recall vs. < 5 | Ever told by a doctor or other health professional that you have a sleep disorder? | 187 + 1590 = 1777 adults | None listed.
 Sameer Prasada | Outcomes of Myocardial Infarction for Patients with History of Mediastinal Radiation | National Inpatient Sample (HCUP) | Death during hospitalization (binary) | History of mediastinal radiation (Yes/No) | 500 + 2000 = 2500 adults | Agam Bansal, CCF
-**Vineet Punia** | Association of refractory acute symptomatic seizure with outcomes in hospitalized patients | PASSION Consortium | Glasgow Outcome Scale (1-5 ordinal scale often split into Poor vs. Good) | Refractory acute symptomatic seizures (Yes/No) | 84 + 260 = 344 adults without epilepsy?  | Post-Acute Symptomatic Seizure Investigations and Outcomes Network: Sahar Zafar, Adithya Sivaraju, Monika Dhakar, Clio Rubinos (various institutions)
-Jordan Rieke | *Coming soon*
+Vineet Punia | Association of refractory acute symptomatic seizure with outcomes in hospitalized patients | PASSION Consortium | Glasgow Outcome Scale (1-5 ordinal scale often split into Poor vs. Good) | Refractory acute symptomatic seizures (Yes/No) | 84 + 260 = 344 adults without epilepsy?  | Post-Acute Symptomatic Seizure Investigations and Outcomes Network: Sahar Zafar, Adithya Sivaraju, Monika Dhakar, Clio Rubinos (various institutions)
+Jordan Rieke | Cardiometabolic Health and Negative Environmental and Social Risk Among Individuals with Type One Diabetes | Type One Diabetes Exchange Clinic Registry 2007-2017 | Elevated BP (SBP > 130 or DBP > 90) (binary) | Have 3-4 of 4 environmental/social risk factors vs. have 0-1 | ~500 + ~2000 = 2500 (adults?) | Stephanie Griggs, FPB SON.
 Jacqueline Shaia | The Impact of GLP-1 Receptor Agonists on Diabetic Retinopathy Progression  | Retrospective cohort of CCF patients 2012-22 | Three: (1) Visual acuity 2 years post-initiation, (2) DR progression (binary) (3) Time to DR worsening | Took GLP-1RA vs. SGLT-2 inhibitors | 1501 + 832 = 2333 adults with Type 2 diabetes | Julia H. Joo, Neha Sharma, Sarunas Daugirdas, Anna K. Wu, Matthew Russell, Mario Skugor, Rishi P. Singh, Aleksandra Rachitskaya, CCF
 Peng Zhang | Evaluating the effectiveness of MyPLate education program on the amount of ingested dietary fiber | NHANES 2015-16 and 2017-18 | Dietary Fiber Intake (daily, in g) | Aware of MyPlate before interview | 377 + 1653 = 2030 adults | None listed.
-**Millenia Zhou** | Observing the US County Premature Death Numbers Based on Median Household Income | County Health Rankings 2022 | # of premature deaths in the county (in 2022?) | Based on median household income within a county | 427 above mean medinc and 603 below = 1030 counties in 10 big states | None listed.
+Millenia Zhou | Observing the US County Premature Death Numbers Based on Median Household Income | County Health Rankings 2022 | rate of premature deaths in the county from CHR 2022 | Based on median household income within a county | 853 above mean medinc and 1147 below = 1030 counties | None listed.
 
+## Details on Covariates, by Investigator
+
+Your covariates should be summarized in two ways in your next proposal draft:
+
+1. Quantitative vs. Categorical (with all available categories specified)
+2. It would also help to sort them into meaningful dimensions (like, for example, Demographics, Body Size, etc.) that would help the less-initiated identify gaps.
+
+Eventually, we'll also need to see a Table One, and you'll need to explain how you'll deal with missing data if you have it, but I won't hold you to that until the Project Update, due 2023-04-05.
+
+Investigator | Data Source | Covariates |
+:----------: | :----------------------: | :------------------------------------------------------------------------------------: | 
+Bryan Abadie | CCF patients 2010 - ? | **18** listed. Quantitative: age, body mass index (BMI), body surface area (BSA), creatinine, left ventricular ejection fraction, left ventricular end-diastolic dimension, and left ventricular end-systolic dimension. Categorical: sex, New York Heart Association classification, prior history of atrial fibrillation, diabetes mellitus, chronic obstructive pulmonary disease, cerebrovascular accident, hypertension, peripheral arterial disease, and myocardial infarction, prior tobacco use, concurrent surgery (other valve or coronary artery bypass grafting).
+Ife Babatunde | NHANES 2017-18 | **6** listed, but I think you should identify more. Quantitative: age, family size. Categorical: sex, race-ethnicity, household income level, housing situation (owned/rented/other).
+Alise Carlson | CCF patients ? - 2022 | **15** listed. Quantitative: Age at diagnosis, Age at first MS symptoms, BMI. Categorical: sex, race, ethnicity, MS phenotype, employment status, diagnoses of DM, HTN, HLD, CAD, ST-EMI, PVD and depression.
+Catherine Heinzinger | CCF patients 2000-2015 | **51** listed, but you only provide summary statistics, rather than telling me what the covariates are (admittedly, some are self-explanatory, but names like mixeds, and t90, well, they aren't.) 
+Benjamin Kramer | CCF patients 1978-2017 | **about 45** listed, so I won't list them here in detail. Main categories are: Demographics, Presentation, Valve Disease, Cardiovascular Comorbidities, Non-Cardiac Comorbidities, Presenting Symptoms, Pre-Operative Status (Aneurysm + Imaging) and Surgery Date
+Zunren (Jack) Liu | County Health Rankings 2022 
+Kyle McGill Percy | NHANES 2013-14 
+Sameer Prasada | National Inpatient Sample (HCUP) 
+Vineet Punia | PASSION Consortium 
+Jordan Rieke | Type One Diabetes Exchange Clinic Registry 2007-2017 
+Jacqueline Shaia | Retrospective cohort of CCF patients 2012-22 
+Peng Zhang | NHANES 2015-16 and 2017-18 
+Millenia Zhou | County Health Rankings 2022 
