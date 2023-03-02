@@ -1,5 +1,11 @@
 # Proposals (First Drafts) for Projects in 500, Spring 2023
 
+# Table of Contents
+
+- [Initial Summaries](#initial-summary-of-some-key-information) **Revised 2023-03-02**
+- [Covariates Discussion](#details-on-covariates-by-investigator) **NEW! 2023-03-02**
+
+
 ## Initial Summary of Some Key Information
 
 Investigator | Title | Data Source | Outcome | Treatment | Subjects | Collaborators | 
