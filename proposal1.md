@@ -26,9 +26,9 @@ Millenia Zhou | Observing the US County Premature Death Numbers Based on Median 
 
 ## Details on Covariates, by Investigator
 
-Your covariates should be summarized in two ways in your next proposal draft:
+Your covariates (aim for **at least** 12 and 20 is better) should be summarized in two ways in your final draft of your Proposal...
 
-1. Quantitative vs. Categorical (with all available categories specified)
+1. Quantitative vs. Categorical (with all available categories specified), plus how many covariates you have, in total.
 2. It would also help to sort them into meaningful dimensions (like, for example, Demographics, Body Size, etc.) that would help the less-initiated identify gaps.
 
 Eventually, we'll also need to see a Table One, and you'll need to explain how you'll deal with missing data if you have it, but I won't hold you to that until the Project Update, due 2023-04-05.
@@ -36,14 +36,14 @@ Eventually, we'll also need to see a Table One, and you'll need to explain how y
 Investigator | Data Source | Covariates |
 :----------: | :----------------------: | :------------------------------------------------------------------------------------: | 
 Bryan Abadie | CCF patients 2010 - ? | **18** listed. Quantitative: age, body mass index (BMI), body surface area (BSA), creatinine, left ventricular ejection fraction, left ventricular end-diastolic dimension, and left ventricular end-systolic dimension. Categorical: sex, New York Heart Association classification, prior history of atrial fibrillation, diabetes mellitus, chronic obstructive pulmonary disease, cerebrovascular accident, hypertension, peripheral arterial disease, and myocardial infarction, prior tobacco use, concurrent surgery (other valve or coronary artery bypass grafting).
-Ife Babatunde | NHANES 2017-18 | **6** listed, but I think you should identify more. Quantitative: age, family size. Categorical: sex, race-ethnicity, household income level, housing situation (owned/rented/other).
+Ife Babatunde | NHANES 2017-18 | **6** listed, but you should identify more. Quantitative: age, family size. Categorical: sex, race-ethnicity, household income level, housing situation (owned/rented/other).
 Alise Carlson | CCF patients ? - 2022 | **15** listed. Quantitative: Age at diagnosis, Age at first MS symptoms, BMI. Categorical: sex, race, ethnicity, MS phenotype, employment status, diagnoses of DM, HTN, HLD, CAD, ST-EMI, PVD and depression.
 Catherine Heinzinger | CCF patients 2000-2015 | **51** listed, but you only provide summary statistics, rather than telling me what the covariates are (admittedly, some are self-explanatory, but names like mixeds, and t90, well, they aren't.) 
 Benjamin Kramer | CCF patients 1978-2017 | **about 45** listed, so I won't list them here in detail. Main categories are: Demographics, Presentation, Valve Disease, Cardiovascular Comorbidities, Non-Cardiac Comorbidities, Presenting Symptoms, Pre-Operative Status (Aneurysm + Imaging) and Surgery Date
-Zunren (Jack) Liu | County Health Rankings 2022 
-Kyle McGill Percy | NHANES 2013-14 
-Sameer Prasada | National Inpatient Sample (HCUP) 
-Vineet Punia | PASSION Consortium 
+Zunren (Jack) Liu | County Health Rankings 2022 | **4** listed, but you should identify more. Quantitative: % excessive drinking, % alcohol-impaired driving deaths, % sexually transmitted infections, % of children in poverty
+Kyle McGill Percy | NHANES 2013-14 | **about 10** listed, but specific variables need to be pinned down and you should include a few additional things - not all of these come via questionnaire, either, as you asserted. Assessments of alcohol use, High BP, High Cholesterol, Poor CV health, Diabetes, Diet, Exercise, BMI, Prescription Medications, Physical Function.
+Sameer Prasada | National Inpatient Sample (HCUP) | **27** listed and tabulated, specifically age, sex, race, htn, anemia_deficiency, obese, periph_vasc_disorder, hypothyroid, chf, smoking, alc_abuse, chronic_pulm_disease, liver_disease diabetes, atrialfibrillation, ckd, esrd, hld, cad, priormi, priorcabg, priorcva, hosp_locteach, hosp_bedsize, ExpectedPrimaryPayer, hosp_region, and medianZipHouseIncomeCurrentYear, most of which could use a more detailed explanation.
+Vineet Punia | PASSION Consortium | 
 Jordan Rieke | Type One Diabetes Exchange Clinic Registry 2007-2017 
 Jacqueline Shaia | Retrospective cohort of CCF patients 2012-22 
 Peng Zhang | NHANES 2015-16 and 2017-18 
